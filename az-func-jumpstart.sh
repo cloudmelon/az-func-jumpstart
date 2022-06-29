@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 # Isolated language worker 
 func init --worker-runtime dotnet-isolated 
